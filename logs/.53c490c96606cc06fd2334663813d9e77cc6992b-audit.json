@@ -1,0 +1,45 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "D:\\work\\CRM-PROJECT\\Server\\logs\\.53c490c96606cc06fd2334663813d9e77cc6992b-audit.json",
+    "files": [
+        {
+            "date": 1765020562708,
+            "name": "D:\\work\\CRM-PROJECT\\Server\\logs\\combined-2025-12-06.log",
+            "hash": "a8c6d042a40132e9c86828c7237544beedd05d1108681a1a68300d2cde13d6a9"
+        },
+        {
+            "date": 1765192605526,
+            "name": "D:\\work\\CRM-PROJECT\\Server\\logs\\combined-2025-12-08.log",
+            "hash": "f403876cd38789748e63c54d0b9efcb08893f845f3ff8056d4cd0be99785bcb2"
+        },
+        {
+            "date": 1765538709140,
+            "name": "D:\\work\\CRM-PROJECT\\Server\\logs\\combined-2025-12-12.log",
+            "hash": "58826b25780c99ae57f7b2830b68a11b0211e02a01432debaa980f0896743fa3"
+        },
+        {
+            "date": 1765604921091,
+            "name": "D:\\work\\CRM-PROJECT\\Server\\logs\\combined-2025-12-13.log",
+            "hash": "a1963bf17c67d0b0a529526059ec3700a32cdc423c37080f614bcacd94fe691b"
+        },
+        {
+            "date": 1766232535671,
+            "name": "D:\\work\\CRM-PROJECT\\Server\\logs\\combined-2025-12-20.log",
+            "hash": "116714cc4d2e7d586f1787475ce40cfaf2d1acdf5ee41b047e4565802bf2bfb4"
+        },
+        {
+            "date": 1766402085558,
+            "name": "D:\\work\\CRM-PROJECT\\Server\\logs\\combined-2025-12-22.log",
+            "hash": "5ce912f3d5fae766ee861a44462dcc8f93898064401f4052c0e650b93809365b"
+        },
+        {
+            "date": 1766487535033,
+            "name": "D:\\work\\CRM-PROJECT\\Server\\logs\\combined-2025-12-23.log",
+            "hash": "0c7565817d21a7121c4ce602d3df0c124e01d45c518baf69a97675f3786b0fd4"
+        }
+    ],
+    "hashType": "sha256"
+}
