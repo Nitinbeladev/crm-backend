@@ -32,7 +32,6 @@ app.use(cors({
 }
 ))
 
-
 // cookie parser
 app.use(cookieParser())
 
